@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**karthikeyan-amk/karthikeyan-amk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Karthikeyan
 
-Here are some ideas to get you started:
+Welcome to my portfolio! This repository contains information about my education, projects, skills, and more. Feel free to explore!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a passionate and dedicated developer with a strong background in Computer Science and Engineering. I aim to continually evolve and expand my expertise across various technologies and frameworks. 
+
+## Education
+
+- Bachelor of Engineering in Computer Science & Engineering (CGPA: 8.61)
+- Higher Secondary Certificate (HSC) - Percentage: 94.8%
+- Secondary School Leaving Certificate (SSLC) - Percentage: 92.4%
+
+
+
