@@ -2,7 +2,7 @@
 
 # I am Karthikeyan
 
-Welcome to my portfolio! This repository contains information about my education, projects, skills, and more. Feel free to explore!
+Welcome to my page! This page contains information about my education, projects, skills, and more. Feel free to explore!
 
 ## About Me
 
