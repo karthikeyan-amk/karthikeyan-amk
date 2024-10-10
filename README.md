@@ -6,7 +6,7 @@ Welcome to my page! This page contains information about my education, projects,
 
 ## About Me
 
-I am a passionate and dedicated developer with a strong background in Computer Science and Engineering. I aim to continually evolve and expand my expertise across various technologies and frameworks. 
+I aim to continually evolve and expand my expertise across various technologies and frameworks. 
 
 ## Education
 
